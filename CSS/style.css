@@ -190,7 +190,7 @@ body {
 .footer {
     width: 90%;
     max-width: 1200px;
-    margin: 10px auto;
+    margin: 5px auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -207,9 +207,6 @@ body {
 .footer__icon:hover {
     transform: scale(1.5, 1.5) ;
 }
-
-
-
 
 
    /*-------------------------*/
