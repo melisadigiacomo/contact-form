@@ -149,9 +149,11 @@ body {
     margin: 10px 0;
     pointer-events: 0.5s;
     color: #666;
+    font-size: 1rem;
+    transform: translateY(-30px);
 }
 
-/* Movement for the title box */
+/* Movement for the title box
 .contact__form .inputbox input:focus ~ span,
 .contact__form .inputbox input:valid ~ span,
 .contact__form .inputbox textarea:focus ~ span,
@@ -160,7 +162,7 @@ body {
     color: black;
     font-size: 1rem;
     transform: translateY(-30px);
-}
+}*/
 
 
 /* Send Button */
@@ -388,7 +390,7 @@ body {
     body {
         overflow: scroll;
     }
-    
+
     /*--- Navbar ---*/
     /* hide navbar */
     .nav__list {
